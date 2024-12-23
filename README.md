@@ -2,7 +2,7 @@
 
 ## 구성
 
-### directx
+### directX
 - directX에 관한 설명이 담긴 문서
 
 ### goals
